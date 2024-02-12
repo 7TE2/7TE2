@@ -223,8 +223,6 @@ https://ua-detector.ml
   <div align="left">  
 <details><summary>Cooler Stats</summary>
 <!--START_SECTION:waka-->
-
-
 <!--END_SECTION:waka-->
   <div align="right">  
 <p align="center">
