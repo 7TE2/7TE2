@@ -223,6 +223,8 @@ https://ua-detector.ml
   <div align="left">  
 <details><summary>Cooler Stats</summary>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -270,7 +272,7 @@ HTML                     1 repo              ███████████�
 
 
 
- Last Updated on 12/02/2024 16:58:07 UTC
+ Last Updated on 12/02/2024 17:09:48 UTC
 <!--END_SECTION:waka-->
   <div align="right">  
 <p align="center">
