@@ -223,7 +223,7 @@ https://ua-detector.ml
   <div align="left">  
 <details><summary>Cooler Stats</summary>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20thousand%20lines%20of%20code-blue)
 
@@ -254,13 +254,17 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-HTML                     0 secs              █████████████████████████   100.00 % 
+HTML                     20 mins             ████████████░░░░░░░░░░░░░   47.14 % 
+JavaScript               15 mins             █████████░░░░░░░░░░░░░░░░   35.60 % 
+CSS                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  42 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -272,7 +276,7 @@ HTML                     1 repo              ███████████�
 
 
 
- Last Updated on 22/02/2024 05:07:40 UTC
+ Last Updated on 22/02/2024 06:10:20 UTC
 <!--END_SECTION:waka-->
   <div align="right">  
 <p align="center">
