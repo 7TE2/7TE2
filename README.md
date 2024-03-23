@@ -254,16 +254,13 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-HTML                     37 mins             █████████████░░░░░░░░░░░░   50.78 % 
-JavaScript               32 mins             ███████████░░░░░░░░░░░░░░   43.29 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in CSS** 
@@ -276,7 +273,7 @@ HTML                     1 repo              ████████░░░�
 
 
 
- Last Updated on 23/03/2024 04:09:56 UTC
+ Last Updated on 23/03/2024 05:08:16 UTC
 <!--END_SECTION:waka-->
   <div align="right">  
 <p align="center">
